@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.sqlite
+dev.db
+test.db
+coverage/
+
+.env.test
+.env.production
+.env.development

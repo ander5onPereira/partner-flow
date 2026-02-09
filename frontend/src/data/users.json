@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "name": "João Silva",
+    "email": "joao@example.com",
+    "role": "admin",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": "2",
+    "name": "Maria Santos",
+    "email": "maria@example.com",
+    "role": "seller",
+    "country": "Portugal",
+    "status": "inactive",
+    "createdAt": "2024-02-20"
+  },
+  {
+    "id": "3",
+    "name": "Carlos Pereira",
+    "email": "carlos@example.com",
+    "role": "seller",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-03-01"
+  },
+  {
+    "id": "4",
+    "name": "Ana Costa",
+    "email": "ana@example.com",
+    "role": "customer",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-04-05"
+  },
+  {
+    "id": "5",
+    "name": "Pedro Alves",
+    "email": "pedro@example.com",
+    "role": "customer",
+    "country": "Portugal",
+    "status": "inactive",
+    "createdAt": "2024-04-20"
+  },
+  {
+    "id": "6",
+    "name": "Luisa Martins",
+    "email": "luisa@example.com",
+    "role": "seller",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-05-10"
+  },
+  {
+    "id": "7",
+    "name": "Bruno Rocha",
+    "email": "bruno@example.com",
+    "role": "customer",
+    "country": "Angola",
+    "status": "active",
+    "createdAt": "2024-05-25"
+  },
+  {
+    "id": "8",
+    "name": "Mariana Lopes",
+    "email": "mariana@example.com",
+    "role": "seller",
+    "country": "Brasil",
+    "status": "inactive",
+    "createdAt": "2024-06-02"
+  },
+  {
+    "id": "9",
+    "name": "Rui Gomes",
+    "email": "rui@example.com",
+    "role": "customer",
+    "country": "Portugal",
+    "status": "active",
+    "createdAt": "2024-06-15"
+  },
+  {
+    "id": "10",
+    "name": "Sofia Ribeiro",
+    "email": "sofia@example.com",
+    "role": "admin",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-07-01"
+  },
+  {
+    "id": "11",
+    "name": "Mateus Nunes",
+    "email": "mateus@example.com",
+    "role": "seller",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-07-10"
+  },
+  {
+    "id": "12",
+    "name": "Helena Ferraz",
+    "email": "helena@example.com",
+    "role": "customer",
+    "country": "Portugal",
+    "status": "inactive",
+    "createdAt": "2024-07-20"
+  }
+]
